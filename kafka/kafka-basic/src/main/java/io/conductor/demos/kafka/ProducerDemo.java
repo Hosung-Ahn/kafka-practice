@@ -14,7 +14,7 @@ public class ProducerDemo {
     public static void main(String[] args) {
         log.info("Hello World!");
 
-        // set kafka producer properties
+        // set kafka properties
         Properties props = new Properties();
         props.put("bootstrap.servers", "localhost:9092");
 
