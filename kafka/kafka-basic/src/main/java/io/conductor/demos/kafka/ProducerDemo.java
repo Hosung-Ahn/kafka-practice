@@ -35,7 +35,5 @@ public class ProducerDemo {
 
         // close producer
         producer.close();
-
-
     }
 }
